@@ -262,4 +262,3 @@ if __name__ == "__main__":
 ### Determine Whether user called a POST or GET request
 
 time: 6:30
-# Python-Flask-Tutorial
